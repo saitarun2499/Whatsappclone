@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 class status_screen extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Center(
       child: Text(
         "Status",
@@ -10,7 +9,7 @@ class status_screen extends StatelessWidget{
             fontSize: 20.0
         ),
       ),
-    );;
+    );
   }
 
 }
